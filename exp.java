@@ -4,4 +4,8 @@ class pw
 {
   //codeing dduper
 }
+ public void mk()
+{
+  //codeing dududuper
+}
 }
