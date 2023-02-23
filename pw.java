@@ -4,5 +4,9 @@ class pw
 {
   //codeing super
 }
+ public void m2()
+{
+  //codeing super
+}
 }
 
