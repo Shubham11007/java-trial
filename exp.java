@@ -4,7 +4,7 @@ class pw
 {
   //codeing dduper
 }
- public void mk()
+ public void m3()
 {
   //codeing dududuper
 }
