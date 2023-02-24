@@ -6,7 +6,7 @@ class pw
 }
  public void m2()
 {
-  //codeing super
+  //codeing physic wallah
 }
 }
 
